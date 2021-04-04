@@ -1,0 +1,3 @@
+# GroupChat
+
+Simple chat application
