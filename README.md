@@ -1,3 +1,3 @@
 # GroupChat
 
-Simple chat application
+Simple chat application using Express and express-ws.
